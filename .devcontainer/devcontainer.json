@@ -1,0 +1,11 @@
+{
+  "name": "Ubuntu 22.04 Dev Container",
+  "build": {
+    "dockerfile": "Dockerfile"
+  },
+  "settings": {},
+  "extensions": [
+    "ms-vscode.cpptools",
+    "ms-azuretools.vscode-docker"
+  ]
+}
